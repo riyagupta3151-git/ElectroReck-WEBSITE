@@ -53,4 +53,4 @@ Deployed with GitHub Pages: Settings > Pages > Deploy from a branch > `main` / `
 
 ## Author
 
-Your Name, Branch and Year, NIT Kurukshetra
+Riya Gupta Sophomore at NIT Kurukshetra Electrical Engineering.
